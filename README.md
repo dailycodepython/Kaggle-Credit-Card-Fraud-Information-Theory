@@ -1,6 +1,5 @@
 # Kaggle-Credit-Card-Fraud-Information-Theory
 Production-ready, structurally robust machine learning pipeline for Kaggle S6E11 using Shannon Entropy, Lorentz geometric damping, and relativistic physics analogies with an optimized Hill-Climbing GBDT Triple Stack (XGBoost, LightGBM, CatBoost) to eliminate leaderboard overfitting
-# 🛸 Kaggle-Credit-Card-Fraud-Information-Theory
 
 This repository contains a high-performance, structurally robust Machine Learning pipeline designed for the **Kaggle Playground Series (Season 6, Episode 11)** competition: *Predicting Credit Card Fraud*.
 
